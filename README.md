@@ -1,3 +1,3 @@
 # Multithreading
 
-HI all, this project is all about practicing multithreading.
+Multi threading basic examples for tutorial
